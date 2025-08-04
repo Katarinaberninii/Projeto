@@ -1,0 +1,1 @@
+## Adiconando funcionalidade
